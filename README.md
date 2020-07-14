@@ -1,3 +1,3 @@
 # NewsLetter
 heroku development
-This is the newsletter using Api from mailchimp
+This is the newsletter using Api from mailchimp .
